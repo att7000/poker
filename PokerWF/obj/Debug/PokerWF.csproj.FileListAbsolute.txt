@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\PokerWF\PokerWF\bin\Debug\PokerWF.exe.config
+C:\Users\User\source\repos\PokerWF\PokerWF\bin\Debug\PokerWF.exe
+C:\Users\User\source\repos\PokerWF\PokerWF\bin\Debug\PokerWF.pdb
+C:\Users\User\source\repos\PokerWF\PokerWF\obj\Debug\PokerWF.csprojAssemblyReference.cache
+C:\Users\User\source\repos\PokerWF\PokerWF\obj\Debug\Poker.Form1.resources
+C:\Users\User\source\repos\PokerWF\PokerWF\obj\Debug\PokerWF.Properties.Resources.resources
+C:\Users\User\source\repos\PokerWF\PokerWF\obj\Debug\PokerWF.csproj.GenerateResource.cache
+C:\Users\User\source\repos\PokerWF\PokerWF\obj\Debug\PokerWF.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PokerWF\PokerWF\obj\Debug\PokerWF.exe
+C:\Users\User\source\repos\PokerWF\PokerWF\obj\Debug\PokerWF.pdb
